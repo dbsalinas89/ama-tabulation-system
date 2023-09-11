@@ -25,7 +25,7 @@ password: 12345678
 
 ## Author
 
-Mark Ian Pamintuan
+Dustin & Paige Salinas
 
 ## Version
 
