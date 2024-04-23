@@ -1,5 +1,5 @@
 # JGV Tabulation System
-A LAN-based Tabulation System for AMA Computer College built using Visual Basic.Net
+A LAN-based Tabulation System built using Visual Basic.Net
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
