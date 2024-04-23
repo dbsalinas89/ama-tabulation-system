@@ -1,4 +1,4 @@
-# AMA Tabulation System
+# JGV Tabulation System
 A LAN-based Tabulation System for AMA Computer College built using Visual Basic.Net
 
 ## Getting Started
@@ -25,7 +25,7 @@ password: 12345678
 
 ## Author
 
-Mark Ian Pamintuan
+Just Going Viral
 
 ## Version
 
